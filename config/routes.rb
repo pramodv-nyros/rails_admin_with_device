@@ -3,6 +3,9 @@ DeviceCanAdmin::Application.routes.draw do
 
 
 
+  resources :projects
+
+
   get "publisher/show"
 
   devise_for :admins

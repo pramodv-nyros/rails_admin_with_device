@@ -2,478 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="123efb8e-7d8d-4c68-9808-44f86f999f29" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/spec/dummy_app/public/system/dragonfly/development/2011/11/30/08_54_39_906_Costa_Rican_Frog.jpg.meta" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/spec/dummy_app/public/system/dragonfly/development/2011/11/30/08_54_39_906_Costa_Rican_Frog.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/spec/dummy_app/public/system/dragonfly/development/2011/11/24/10_36_27_888_Pensive_Parakeet.jpg.meta" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/spec/dummy_app/public/system/dragonfly/development/2011/11/24/10_36_27_888_Pensive_Parakeet.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/spec/dummy_app/public/system/paperclip_assets/1/original/Boston City Flow.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/spec/dummy_app/public/system/paperclip_assets/1/thumb/Boston City Flow.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/spec/dummy_app/public/uploads/field_test/carrierwave_asset/3/Boston_City_Flow.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/spec/dummy_app/public/system/paperclip_assets/3/original/Costa Rican Frog.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/spec/dummy_app/public/system/paperclip_assets/3/thumb/Costa Rican Frog.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/spec/dummy_app/public/uploads/field_test/carrierwave_asset/4/Costa_Rican_Frog.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/LICENSE.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/spec/dummy_app/public/uploads/field_test/carrierwave_asset/6/Pensive_Parakeet.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/spec/dummy_app/doc/README_FOR_APP" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/app/assets/images/rails_admin/aristo/images/bg_fallback.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/app/assets/stylesheets/rails_admin/aristo/images/bg_fallback.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/app/assets/images/rails_admin/bullet_black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/app/assets/images/rails_admin/bullet_white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/app/assets/images/rails_admin/calendar.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/app/assets/images/rails_admin/clock.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/app/assets/images/rails_admin/colorpicker/colorpicker_background.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/app/assets/images/rails_admin/colorpicker/colorpicker_hex.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/app/assets/images/rails_admin/colorpicker/colorpicker_hsb_b.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/app/assets/images/rails_admin/colorpicker/colorpicker_hsb_h.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/app/assets/images/rails_admin/colorpicker/colorpicker_hsb_s.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/app/assets/images/rails_admin/colorpicker/colorpicker_indic.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/app/assets/images/rails_admin/colorpicker/colorpicker_overlay.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/app/assets/images/rails_admin/colorpicker/colorpicker_rgb_b.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/app/assets/images/rails_admin/colorpicker/colorpicker_rgb_g.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/app/assets/images/rails_admin/colorpicker/colorpicker_rgb_r.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/app/assets/images/rails_admin/colorpicker/colorpicker_select.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/app/assets/images/rails_admin/colorpicker/colorpicker_submit.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/app/assets/images/rails_admin/colorpicker/custom_background.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/app/assets/images/rails_admin/colorpicker/custom_hex.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/app/assets/images/rails_admin/colorpicker/custom_hsb_b.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/app/assets/images/rails_admin/colorpicker/custom_hsb_h.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/app/assets/images/rails_admin/colorpicker/custom_hsb_s.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/app/assets/images/rails_admin/colorpicker/custom_indic.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/app/assets/images/rails_admin/colorpicker/custom_rgb_b.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/app/assets/images/rails_admin/colorpicker/custom_rgb_g.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/app/assets/images/rails_admin/colorpicker/custom_rgb_r.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/app/assets/images/rails_admin/colorpicker/custom_submit.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/spec/dummy_app/public/favicon.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/app/assets/images/rails_admin/aristo/images/icon_sprite.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/app/assets/images/rails_admin/multiselect/icon_sprite.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/app/assets/stylesheets/rails_admin/aristo/images/icon_sprite.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/spec/dummy_app/public/system/paperclip_assets/6/original/liste-electorale.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/spec/dummy_app/public/system/paperclip_assets/6/thumb/liste-electorale.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/app/assets/images/rails_admin/logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/app/assets/images/rails_admin/magnifier.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/app/assets/images/rails_admin/aristo/images/progress_bar.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/app/assets/stylesheets/rails_admin/aristo/images/progress_bar.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/spec/dummy_app/app/assets/images/rails.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/app/assets/images/rails_admin/colorpicker/select.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/app/assets/images/rails_admin/colorpicker/select2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/app/assets/images/rails_admin/colorpicker/slider.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/app/assets/images/rails_admin/aristo/images/slider_handles.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/app/assets/stylesheets/rails_admin/aristo/images/slider_handles.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/spec/dummy_app/db/test.sqlite3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/spec/dummy_app/public/uploads/field_test/carrierwave_asset/3/thumb_Boston_City_Flow.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/spec/dummy_app/public/uploads/field_test/carrierwave_asset/4/thumb_Costa_Rican_Frog.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/spec/dummy_app/public/uploads/field_test/carrierwave_asset/6/thumb_Pensive_Parakeet.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/app/assets/images/rails_admin/multiselect/ui-icon-circle-triangle-n-dark.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/app/assets/images/rails_admin/multiselect/ui-icon-circle-triangle-n-light.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/app/assets/images/rails_admin/multiselect/ui-icon-circle-triangle-s-dark.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/app/assets/images/rails_admin/multiselect/ui-icon-circle-triangle-s-light.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/app/assets/images/rails_admin/aristo/images/ui-icons_222222_256x240.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/app/assets/stylesheets/rails_admin/aristo/images/ui-icons_222222_256x240.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/app/assets/images/rails_admin/aristo/images/ui-icons_454545_256x240.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/app/assets/stylesheets/rails_admin/aristo/images/ui-icons_454545_256x240.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/spec/dummy_app/db/migrate/00000000000001_create_divisions_migration.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/spec/dummy_app/db/migrate/00000000000002_create_drafts_migration.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/spec/dummy_app/db/migrate/00000000000003_create_leagues_migration.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/spec/dummy_app/db/migrate/00000000000004_create_players_migration.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/spec/dummy_app/db/migrate/00000000000005_create_teams_migration.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/spec/dummy_app/db/migrate/00000000000006_devise_create_users.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/spec/dummy_app/db/migrate/00000000000007_create_histories_table.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/spec/dummy_app/db/migrate/00000000000008_create_fans_migration.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/spec/dummy_app/db/migrate/00000000000009_create_fans_teams_migration.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/spec/dummy_app/db/migrate/00000000000010_add_revenue_to_team_migration.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/spec/dummy_app/db/migrate/00000000000011_add_suspended_to_player_migration.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/spec/dummy_app/db/migrate/00000000000012_add_avatar_columns_to_user.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/spec/dummy_app/db/migrate/00000000000013_add_roles_to_user.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/spec/dummy_app/db/migrate/00000000000014_add_color_to_team_migration.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/spec/dummy_app/db/migrate/20101223222233_create_rel_tests.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/spec/dummy_app/db/migrate/20110103205808_create_comments.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/spec/dummy_app/db/migrate/20110123042530_rename_histories_to_rails_admin_histories.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/spec/dummy_app/db/migrate/20110224184303_create_field_tests.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/spec/dummy_app/db/migrate/20110328193014_create_cms_basic_pages.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/spec/dummy_app/db/migrate/20110329183136_remove_league_id_from_teams.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/spec/dummy_app/db/migrate/20110607152842_add_format_to_field_test.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/spec/dummy_app/db/migrate/20110714095433_create_balls.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/spec/dummy_app/db/migrate/20110831090841_add_protected_field_and_restricted_field_to_field_tests.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/spec/dummy_app/db/migrate/20110901131551_change_division_primary_key.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/spec/dummy_app/db/migrate/20110901142530_rename_league_id_foreign_key_on_divisions.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/spec/dummy_app/db/migrate/20110901150912_set_primary_key_not_null_for_divisions.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/spec/dummy_app/db/migrate/20110901154834_change_length_for_rails_admin_histories.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/spec/dummy_app/db/migrate/20111103174459_create_unscoped_pages.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/spec/dummy_app/db/migrate/20111108143642_add_dragonfly_and_carrierwave_to_field_tests.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/spec/dummy_app/db/migrate/20111115041025_add_type_to_balls.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/spec/dummy_app/db/migrate/20111123092549_create_nested_field_tests.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/spec/dummy_app/db/migrate/20111130075338_add_dragonfly_asset_name_to_field_tests.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/spec/dummy_app/db/migrate/20111215083258_create_foo_bars.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/spec/dummy_app/db/migrate/20120117151733_add_custom_field_to_teams.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/spec/dummy_app/db/migrate/20120118122004_add_categories.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/spec/dummy_app/db/migrate/20120319041705_drop_rel_tests.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/spec/dummy_app/db/migrate/20120720075608_create_another_field_tests.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/spec/dummy_app/db/migrate/20120928075608_create_images.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/db/migrate/20131122040745_devise_create_admins.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/db/migrate/20131122040802_devise_create_publishers.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/db/migrate/20131122045116_create_rails_admin_histories_table.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/spec/dummy_app/public/404.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/spec/dummy_app/public/422.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/spec/dummy_app/public/500.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/spec/dummy_app/Gemfile.lock" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/Gemfile" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/spec/dummy_app/Gemfile" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/app/assets/stylesheets/rails_admin/base/README.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/Rakefile" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/spec/dummy_app/Rakefile" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/app/views/rails_admin/main/_dashboard_history.html.haml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/app/views/rails_admin/main/_delete_notice.html.haml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/app/views/rails_admin/main/_form_colorpicker.html.haml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/app/views/rails_admin/main/_form_datetime.html.haml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/app/views/rails_admin/main/_form_enumeration.html.haml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/app/views/rails_admin/main/_form_field.html.haml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/app/views/rails_admin/main/_form_file_upload.html.haml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/app/views/rails_admin/main/_form_filtering_multiselect.html.haml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/app/views/rails_admin/main/_form_filtering_select.html.haml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/app/views/rails_admin/main/_form_nested_many.html.haml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/app/views/rails_admin/main/_form_nested_one.html.haml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/app/views/rails_admin/main/_form_polymorphic_association.html.haml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/app/views/rails_admin/main/_form_text.html.haml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/app/views/kaminari/twitter-bootstrap/_gap.html.haml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/devise/shared/_links.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/app/views/kaminari/twitter-bootstrap/_next_page.html.haml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/app/views/kaminari/twitter-bootstrap/_page.html.haml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/app/views/kaminari/twitter-bootstrap/_paginator.html.haml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/app/views/kaminari/twitter-bootstrap/_prev_page.html.haml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/app/views/layouts/rails_admin/_secondary_navigation.html.haml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/app/views/rails_admin/main/_submit_buttons.html.haml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/spec/dummy_app/app/active_record/abstract.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/lib/rails_admin/abstract_model.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/spec/rails_admin/abstract_model_spec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/lib/rails_admin/adapters/active_record/abstract_object.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/lib/rails_admin/adapters/mongoid/abstract_object.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/spec/rails_admin/adapters/active_record/abstract_object_spec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/spec/rails_admin/adapters/mongoid/abstract_object_spec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/lib/rails_admin/config/actions.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/spec/rails_admin/config/actions_spec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/lib/rails_admin/adapters/active_record.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/spec/orm/active_record.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/spec/rails_admin/active_record_extension_spec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/config/initializers/active_record_extensions.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/spec/rails_admin/adapters/active_record_spec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/models/admin.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/unit/admin_test.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/fixtures/admins.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/lib/rails_admin/config/fields/types/all.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/spec/dummy_app/app/active_record/another_field_test.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/spec/dummy_app/app/mongoid/another_field_test.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/spec/dummy_app/app/assets/stylesheets/application.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/spec/dummy_app/app/views/layouts/application.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/app/views/layouts/rails_admin/application.html.haml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/spec/dummy_app/app/assets/javascripts/application.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/spec/dummy_app/config/application.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/app/controllers/rails_admin/application_controller.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/spec/dummy_app/app/controllers/application_controller.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/spec/controllers/rails_admin/application_controller_spec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/app/helpers/rails_admin/application_helper.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/spec/helpers/rails_admin/application_helper_spec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/lib/rails_admin/config/fields/association.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/lib/rails_admin/config/fields/factories/association.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/lib/rails_admin/extensions/history/auditing_adapter.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/lib/rails_admin/extensions/paper_trail/auditing_adapter.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/lib/rails_admin/extensions/cancan/authorization_adapter.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/spec/dummy_app/config/initializers/backtrace_silencers.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/spec/dummy_app/app/active_record/ball.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/spec/dummy_app/app/mongoid/ball.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/lib/rails_admin/config/actions/base.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/lib/rails_admin/config/fields/base.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/lib/rails_admin/config/sections/base.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/spec/rails_admin/config/actions/base_spec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/spec/rails_admin/config/fields/base_spec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/spec/dummy_app/app/active_record/cms/basic_page.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/spec/dummy_app/app/mongoid/cms/basic_page.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/lib/rails_admin/config/fields/types/belongs_to_association.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/lib/rails_admin/config/fields/types/boolean.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/spec/dummy_app/config/boot.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/lib/rails_admin/config/fields/types/bson_object_id.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/app/views/rails_admin/main/bulk_delete.html.haml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/lib/rails_admin/config/actions/bulk_delete.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/lib/rails_admin/extensions/cancan.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/spec/integration/authorization/cancan_spec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/lib/rails_admin/config/fields/factories/carrierwave.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/lib/rails_admin/config/fields/types/carrierwave.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/spec/dummy_app/app/active_record/carrierwave_uploader.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/spec/dummy_app/app/mongoid/carrierwave_uploader.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/spec/dummy_app/app/active_record/category.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/spec/dummy_app/app/mongoid/category.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/spec/dummy_app/app/active_record/cms.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/spec/dummy_app/app/mongoid/cms.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/lib/rails_admin/config/fields/types/color.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/spec/dummy_app/app/active_record/comment.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/spec/dummy_app/app/mongoid/comment.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/lib/rails_admin/config.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/spec/dummy_app/config.ru" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/spec/rails_admin/config_spec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/lib/rails_admin/config/configurable.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/devise/mailer/confirmation_instructions.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/spec/dummy_app/app/active_record/comment/confirmed.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/spec/dummy_app/app/mongoid/comment/confirmed.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/lib/rails_admin/support/core_extensions.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/lib/rails_admin/config/sections/create.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/lib/rails_admin/support/csv_converter.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/spec/rails_admin/support/csv_converter_spec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/app/views/rails_admin/main/dashboard.html.haml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/lib/rails_admin/config/actions/dashboard.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/spec/dummy_app/config/database.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/lib/rails_admin/config/fields/types/date.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/spec/rails_admin/config/fields/date_spec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/lib/rails_admin/config/fields/types/datetime.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/spec/rails_admin/config/fields/datetime_spec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/spec/rails_admin/config/fields/types/datetime_spec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/lib/rails_admin/config/fields/types/decimal.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/app/views/rails_admin/main/delete.html.haml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/lib/rails_admin/config/actions/delete.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/spec/dummy_app/config/environments/development.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/locales/devise.en.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/initializers/devise.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/lib/rails_admin/config/fields/factories/devise.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/spec/dummy_app/config/initializers/devise.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/config/initializers/devise_patch.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/spec/dummy_app/app/active_record/division.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/spec/dummy_app/app/mongoid/division.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/spec/dummy_app/app/active_record/draft.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/spec/dummy_app/app/mongoid/draft.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/lib/rails_admin/config/fields/factories/dragonfly.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/lib/rails_admin/config/fields/types/dragonfly.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/spec/dummy_app/config/initializers/dragonfly.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/lib/generators/rails_admin/templates/drop.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/devise/passwords/edit.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/devise/registrations/edit.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/app/views/rails_admin/main/edit.html.haml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/lib/rails_admin/config/actions/edit.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/lib/rails_admin/config/sections/edit.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/spec/dummy_app/app/mongoid/embed.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/lib/rails_admin/engine.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/lib/rails_admin/config/fields/factories/enum.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/lib/rails_admin/config/fields/types/enum.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/spec/dummy_app/config/environment.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/app/views/rails_admin/main/export.html.haml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/lib/rails_admin/config/actions/export.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/lib/rails_admin/config/sections/export.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/lib/rails_admin/extension.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/lib/rails_admin/adapters/mongoid/extension.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/spec/factories.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/spec/dummy_app/app/active_record/fan.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/spec/dummy_app/app/mongoid/fan.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/spec/dummy_app/app/active_record/field_test.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/spec/dummy_app/app/mongoid/field_test.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/lib/rails_admin/config/fields.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/spec/rails_admin/config/fields_spec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/lib/rails_admin/config/fields/types/file_upload.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/spec/rails_admin/config/fields/file_upload_spec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/lib/rails_admin/config/fields/types/float.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/app/helpers/rails_admin/form_builder.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/spec/helpers/rails_admin/form_builder_spec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/spec/dummy_app/config/locales/fr.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/lib/rails_admin/config/fields/group.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/lib/rails_admin/config/groupable.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/config/initializers/haml.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/spec/dummy_app/app/active_record/hardball.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/spec/dummy_app/app/mongoid/hardball.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/lib/rails_admin/config/fields/types/has_and_belongs_to_many_association.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/lib/rails_admin/config/has_fields.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/spec/rails_admin/config/has_fields_spec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/lib/rails_admin/config/has_groups.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/lib/rails_admin/config/fields/types/has_many_association.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/lib/rails_admin/config/fields/types/has_one_association.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/lib/rails_admin/config/fields/types/hidden.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/lib/rails_admin/config/hideable.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/app/views/rails_admin/main/history.html.haml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/lib/rails_admin/extensions/history.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/lib/rails_admin/extensions/history/history.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/lib/rails_admin/config/actions/history_index.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/lib/rails_admin/config/actions/history_show.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/stylesheets/home.css.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/javascripts/home.js.coffee" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/controllers/home_controller.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/functional/home_controller_test.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/helpers/home_helper.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/unit/helpers/home_helper_test.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/lib/rails_admin/i18n_support.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/spec/dummy_app/app/active_record/image.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/spec/dummy_app/app/mongoid/image.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/app/views/rails_admin/main/index.html.haml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/lib/rails_admin/config/actions/index.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/spec/dummy_app/config/initializers/inflections.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/lib/generators/rails_admin/templates/initializer.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/lib/generators/rails_admin/install_generator.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/lib/rails_admin/config/fields/types/integer.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/app/assets/stylesheets/rails_admin/aristo/jquery-ui-1.8.7.custom.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/app/assets/javascripts/rails_admin/jquery.colorpicker.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/app/assets/stylesheets/rails_admin/jquery.colorpicker.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/app/assets/javascripts/rails_admin/jquery.pjax.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/app/assets/javascripts/rails_admin/jquery.remotipart.fixed.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/app/assets/javascripts/rails_admin/jquery.ui.timepicker.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/app/assets/stylesheets/rails_admin/jquery.ui.timepicker.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/lib/rails_admin/config/lazy_model.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/spec/rails_admin/config/lazy_model_spec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/spec/dummy_app/app/active_record/league.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/spec/dummy_app/app/mongoid/league.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/lib/rails_admin/config/sections/list.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/app/controllers/rails_admin/main_controller.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/spec/controllers/rails_admin/main_controller_spec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/app/helpers/rails_admin/main_helper.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/lib/generators/rails_admin/templates/migration.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/spec/dummy_app/config/initializers/mime_types.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/app/assets/stylesheets/rails_admin/base/mixins.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/app/assets/stylesheets/rails_admin/custom/mixins.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/app/assets/stylesheets/rails_admin/themes/cerulean/mixins.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/app/assets/stylesheets/rails_admin/themes/default/mixins.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/lib/rails_admin/config/sections/modal.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/lib/rails_admin/config/model.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/spec/rails_admin/config/model_spec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/spec/dummy_app/app/locales/models.en.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/lib/rails_admin/adapters/mongoid.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/spec/orm/mongoid.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/spec/dummy_app/config/mongoid.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/config/initializers/mongoid_extensions.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/spec/rails_admin/adapters/mongoid_spec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/lib/rails_admin/config/sections/nested.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/spec/dummy_app/app/active_record/nested_field_test.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/spec/dummy_app/app/mongoid/nested_field_test.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/devise/confirmations/new.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/devise/passwords/new.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/devise/registrations/new.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/devise/sessions/new.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/devise/unlocks/new.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/app/views/rails_admin/main/new.html.haml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/lib/rails_admin/config/actions/new.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/lib/rails_admin/extensions/paper_trail.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/lib/rails_admin/config/fields/factories/paperclip.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/lib/rails_admin/config/fields/types/paperclip.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/lib/rails_admin/config/fields/factories/password.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/lib/rails_admin/config/fields/types/password.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/app/views/layouts/rails_admin/pjax.html.haml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/spec/dummy_app/app/active_record/player.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/spec/dummy_app/app/mongoid/player.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/spec/dummy_app/app/controllers/players_controller.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/lib/rails_admin/config/fields/types/polymorphic_association.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/spec/dummy_app/config/environments/production.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/lib/rails_admin/config/proxyable/proxy.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/lib/rails_admin/config/proxyable.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/stylesheets/publisher.css.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/javascripts/publisher.js.coffee" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/models/publisher.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/controllers/publisher_controller.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/functional/publisher_controller_test.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/helpers/publisher_helper.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/unit/helpers/publisher_helper_test.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/unit/publisher_test.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/fixtures/publishers.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/app/assets/stylesheets/rails_admin/ra.calendar-additions.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/app/assets/javascripts/rails_admin/ra.datetimepicker.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/app/assets/javascripts/rails_admin/ra.filter-box.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/app/assets/javascripts/rails_admin/ra.filtering-multiselect.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/app/assets/stylesheets/rails_admin/ra.filtering-multiselect.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/app/assets/javascripts/rails_admin/ra.filtering-select.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/app/assets/javascripts/rails_admin/ra.nested-form-hooks.coffee" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/app/assets/javascripts/rails_admin/ra.remote-form.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/app/assets/javascripts/rails_admin/ra.widgets.coffee" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/app/assets/stylesheets/rails_admin/ra.widgets.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/spec/dummy_app/script/rails" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/config/locales/rails_admin.en.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/app/assets/javascripts/rails_admin/rails_admin.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/lib/tasks/rails_admin.rake" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/initializers/rails_admin.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/lib/rails_admin.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/spec/dummy_app/config/initializers/rails_admin.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/app/assets/stylesheets/rails_admin/rails_admin.scss.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/spec/integration/basic/bulk_action/rails_admin_basic_bulk_action_spec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/spec/integration/basic/bulk_destroy/rails_admin_basic_bulk_destroy_spec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/spec/integration/basic/create/rails_admin_basic_create_spec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/spec/integration/basic/delete/rails_admin_basic_delete_spec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/spec/integration/basic/destroy/rails_admin_basic_destroy_spec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/spec/integration/basic/edit/rails_admin_basic_edit_spec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/spec/integration/basic/export/rails_admin_basic_export_spec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/spec/integration/basic/list/rails_admin_basic_list_spec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/spec/integration/basic/new/rails_admin_basic_new_spec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/spec/integration/basic/show/rails_admin_basic_show_spec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/spec/integration/basic/update/rails_admin_basic_update_spec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/spec/integration/config/edit/rails_admin_config_edit_spec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/spec/integration/config/list/rails_admin_config_list_spec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/spec/integration/config/show/rails_admin_config_show_spec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/spec/integration/history/rails_admin_history_spec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/spec/integration/basic/create/rails_admin_namespaced_model_create_spec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/spec/integration/basic/new/rails_admin_namespaced_model_new_spec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/spec/integration/rails_admin_spec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/spec/integration/relation_spec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/devise/mailer/reset_password_instructions.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/spec/dummy_app/public/robots.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/config/routes.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/spec/dummy_app/config/routes.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/db/schema.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/spec/dummy_app/config/initializers/secret_token.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/lib/rails_admin/config/sections.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/spec/rails_admin/config/sections_spec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/spec/dummy_app/db/seeds.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/lib/rails_admin/config/fields/types/serialized.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/spec/dummy_app/config/initializers/session_patch.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/spec/dummy_app/config/initializers/session_store.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/publisher/show.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/app/views/rails_admin/main/show.html.haml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/spec/dummy_app/app/views/players/show.html.haml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/lib/rails_admin/config/actions/show.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/lib/rails_admin/config/sections/show.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/lib/rails_admin/config/actions/show_in_app.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/spec/spec_helper.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/lib/rails_admin/config/fields/types/string.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/spec/dummy_app/config/initializers/strong_parameters.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/spec/dummy_app/app/active_record/team.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/spec/dummy_app/app/mongoid/team.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/spec/dummy_app/log/test.log" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/spec/dummy_app/config/environments/test.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/lib/rails_admin/config/fields/types/text.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/spec/rails_admin/config/fields/types/text_spec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/app/assets/stylesheets/rails_admin/base/theming.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/app/assets/stylesheets/rails_admin/custom/theming.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/app/assets/stylesheets/rails_admin/themes/cerulean/theming.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/app/assets/stylesheets/rails_admin/themes/default/theming.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/lib/rails_admin/config/fields/types/time.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/spec/rails_admin/config/fields/time_spec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/lib/rails_admin/config/fields/types/timestamp.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/spec/rails_admin/config/fields/timestamp_spec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/lib/rails_admin/config/fields/types.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/app/assets/javascripts/rails_admin/ui.coffee" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/app/assets/javascripts/rails_admin/custom/ui.coffee" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/lib/generators/rails_admin/uninstall_generator.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/devise/mailer/unlock_instructions.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/spec/dummy_app/app/active_record/cms/unscoped_page.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/spec/dummy_app/app/mongoid/cms/unscoped_page.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/lib/rails_admin/config/sections/update.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/spec/dummy_app/app/active_record/user.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/spec/dummy_app/app/mongoid/user.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/lib/generators/rails_admin/utils.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/app/assets/stylesheets/rails_admin/base/variables.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/app/assets/stylesheets/rails_admin/custom/variables.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/app/assets/stylesheets/rails_admin/themes/cerulean/variables.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/app/assets/stylesheets/rails_admin/themes/default/variables.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/lib/rails_admin/version.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/gems/rails_admin/spec/dummy_app/config/initializers/wrap_parameters.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.rakeTasks" afterPath="$PROJECT_DIR$/.idea/.rakeTasks" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile.lock" afterPath="$PROJECT_DIR$/Gemfile.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile" afterPath="$PROJECT_DIR$/Gemfile" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/layouts/application.html.erb" afterPath="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/environments/development.rb" afterPath="$PROJECT_DIR$/config/environments/development.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/device_can_admin.iml" afterPath="$PROJECT_DIR$/.idea/device_can_admin.iml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/favicon.ico" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/index.html" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/devise/sessions/new.html.erb" afterPath="$PROJECT_DIR$/app/views/devise/sessions/new.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/models/publisher.rb" afterPath="$PROJECT_DIR$/app/models/publisher.rb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/routes.rb" afterPath="$PROJECT_DIR$/config/routes.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db/schema.rb" afterPath="$PROJECT_DIR$/db/schema.rb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="device_can_admin.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="123efb8e-7d8d-4c68-9808-44f86f999f29" time="1385115680004" ignored="false" />
+    <file path="/Dummy.txt" changelist="123efb8e-7d8d-4c68-9808-44f86f999f29" time="1385118220414" ignored="false" />
     <file path="$PROJECT_DIR$/../../PMP/staging-app/staging-publisher-management/Gemfile" changelist="123efb8e-7d8d-4c68-9808-44f86f999f29" time="1384951678756" ignored="false" />
     <file path="/Gemfile" changelist="123efb8e-7d8d-4c68-9808-44f86f999f29" time="1385098204859" ignored="false" />
     <file path="$PROJECT_DIR$/../../PMP/Nov21/publisher-management/Gemfile" changelist="123efb8e-7d8d-4c68-9808-44f86f999f29" time="1385092651404" ignored="false" />
-    <file path="/publisher.rb" changelist="123efb8e-7d8d-4c68-9808-44f86f999f29" time="1385095216602" ignored="false" />
+    <file path="/publisher.rb" changelist="123efb8e-7d8d-4c68-9808-44f86f999f29" time="1385122620192" ignored="false" />
     <file path="/home_controller.rb" changelist="123efb8e-7d8d-4c68-9808-44f86f999f29" time="1385110041669" ignored="false" />
     <file path="/show.html.erb" changelist="123efb8e-7d8d-4c68-9808-44f86f999f29" time="1385110529146" ignored="false" />
-    <file path="/devise.rb" changelist="123efb8e-7d8d-4c68-9808-44f86f999f29" time="1385110979830" ignored="false" />
+    <file path="/devise.rb" changelist="123efb8e-7d8d-4c68-9808-44f86f999f29" time="1385123402347" ignored="false" />
+    <file path="/projects_controller.rb" changelist="123efb8e-7d8d-4c68-9808-44f86f999f29" time="1385121461727" ignored="false" />
+    <file path="/new.html.erb" changelist="123efb8e-7d8d-4c68-9808-44f86f999f29" time="1385123386155" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -501,7 +49,7 @@
       <file leaf-file-name="routes.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/config/routes.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="37" selection-start="129" selection-end="129" vertical-scroll-proportion="0.0">
+            <state line="12" column="32" selection-start="203" selection-end="203" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -510,23 +58,32 @@
       <file leaf-file-name="devise.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/config/initializers/devise.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="34" selection-start="528" selection-end="528" vertical-scroll-proportion="0.0">
+            <state line="43" column="41" selection-start="2473" selection-end="2478" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="development.rb" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/config/environments/development.rb">
+      <file leaf-file-name="projects_controller.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/controllers/projects_controller.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="48" selection-start="724" selection-end="724" vertical-scroll-proportion="0.17889088">
+            <state line="1" column="67" selection-start="116" selection-end="116" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="inflections.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/config/initializers/inflections.rb">
+      <file leaf-file-name="new.html.erb" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/views/devise/sessions/new.html.erb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="5" column="25" selection-start="237" selection-end="237" vertical-scroll-proportion="0.16634052">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="publisher.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/models/publisher.rb">
           <provider selected="true" editor-type-id="text-editor">
             <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
               <folding />
@@ -534,8 +91,17 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="mime_types.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/config/initializers/mime_types.rb">
+      <file leaf-file-name="application_controller.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/controllers/application_controller.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="6" selection-start="6" selection-end="6" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="schema.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/db/schema.rb">
           <provider selected="true" editor-type-id="text-editor">
             <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
               <folding />
@@ -566,12 +132,14 @@
       <list>
         <option value="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
         <option value="$PROJECT_DIR$/config/environments/development.rb" />
-        <option value="$PROJECT_DIR$/app/models/publisher.rb" />
-        <option value="$PROJECT_DIR$/config/routes.rb" />
         <option value="$PROJECT_DIR$/Gemfile" />
         <option value="$PROJECT_DIR$/app/controllers/home_controller.rb" />
         <option value="$PROJECT_DIR$/app/views/publisher/show.html.erb" />
+        <option value="$PROJECT_DIR$/config/routes.rb" />
+        <option value="$PROJECT_DIR$/app/controllers/projects_controller.rb" />
+        <option value="$PROJECT_DIR$/app/models/publisher.rb" />
         <option value="$PROJECT_DIR$/config/initializers/devise.rb" />
+        <option value="$PROJECT_DIR$/app/views/devise/sessions/new.html.erb" />
       </list>
     </option>
   </component>
@@ -989,7 +557,7 @@
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32888147" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32847896" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32847896" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32924336" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3285124" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25826445" sideWeight="0.67111856" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1068,40 +636,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/db/migrate/20131122040745_devise_create_admins.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="52" selection-start="428" selection-end="428" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/models/admin.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Gemfile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="26" selection-start="267" selection-end="267" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/models/publisher.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="28" selection-start="445" selection-end="445" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/controllers/publisher_controller.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="11" selection-start="60" selection-end="60" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config/routes.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="37" selection-start="129" selection-end="129" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p320/gems/railties-3.2.13/guides/code/getting_started/app/controllers/home_controller.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="5" column="46" selection-start="68" selection-end="68" vertical-scroll-proportion="0.14782609">
@@ -1121,12 +655,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/config/initializers/rails_admin.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/config/initializers/backtrace_silencers.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/publisher/show.html.erb">
@@ -1148,16 +686,58 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config/initializers/devise.rb">
+    <entry file="file://$PROJECT_DIR$/config/environments/development.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="34" selection-start="528" selection-end="528" vertical-scroll-proportion="0.0">
+        <state line="16" column="48" selection-start="724" selection-end="724" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config/environments/development.rb">
+    <entry file="file://$PROJECT_DIR$/db/schema.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="48" selection-start="724" selection-end="724" vertical-scroll-proportion="0.17889088">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/routes.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="32" selection-start="203" selection-end="203" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/application_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="6" selection-start="6" selection-end="6" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/models/publisher.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/projects_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="67" selection-start="116" selection-end="116" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/initializers/devise.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="43" column="41" selection-start="2473" selection-end="2478" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/devise/sessions/new.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="25" selection-start="237" selection-end="237" vertical-scroll-proportion="0.16634052">
           <folding />
         </state>
       </provider>
