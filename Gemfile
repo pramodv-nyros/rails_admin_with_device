@@ -11,8 +11,19 @@ gem "carrierwave"
 gem 'zeroclipboard-rails'
 gem "cancan"
 gem "ckeditor"
-gem 'rails_admin'
+gem 'rails_admin', '0.4.9', :path => './vendor/gems/rails_admin'
 
+# Rails admin dependencies
+gem 'bootstrap-sass', '~> 2.2'
+gem 'builder', '~> 3.0'
+gem 'font-awesome-rails', '~> 3.0'
+gem 'haml', '~> 4.0'
+gem 'jquery-ui-rails', '~> 3.0'
+gem 'kaminari', '~> 0.14'
+gem 'nested_form', '~> 0.3'
+gem 'rack-pjax', '~> 0.6'
+gem 'remotipart', '~> 1.0'
+gem 'safe_yaml', '~> 0.6'
 
 
 # Gems used only for assets and not required
