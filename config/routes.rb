@@ -1,4 +1,14 @@
 DeviceCanAdmin::Application.routes.draw do
+
+
+
+
+  get "publisher/show"
+
+  devise_for :admins
+  mount RailsAdmin::Engine => '/admin', :as => 'rails_admin'
+  root :to => "home#index"
+  devise_for :publishers
   # The priority is based upon order of creation:
   # first created -> highest priority.
 
